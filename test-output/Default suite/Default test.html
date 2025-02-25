@@ -1,0 +1,589 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>80/4/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Feb 24 15:07:44 EST 2025</td>
+</tr>
+<tr><td>Total time:</td><td>156 seconds (156930 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify warning message when selecting Stack without signing in", "Home Page"</td>
+<td><div><pre>java.lang.RuntimeException: Browser not specified in the Configuration.properties file.
+	at dsAlgo_Reader.ConfigReader.getBrowser(ConfigReader.java:46)
+	at dsAlgo_Hooks.Hooks.setup(Hooks.java:30)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1143694531", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1143694531'><pre>java.lang.RuntimeException: Browser not specified in the Configuration.properties file.
+	at dsAlgo_Reader.ConfigReader.getBrowser(ConfigReader.java:46)
+	at dsAlgo_Hooks.Hooks.setup(Hooks.java:30)
+</pre></div></td>
+<td>1</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to naviagte to home page with the message", "Register Page"</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[contains(text(),&apos;Account Created&apos;)]&quot;}
+  (Session info: chrome=133.0.6943.126)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.28.0&apos;, revision: &apos;ac342546e9&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5ab23f627df6cd7a152196d6c4d86b2f, findElement {using=xpath, value=//div[contains(text(),&apos;Account Created&apos;)]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.126, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\rinuh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56252}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56252/devtoo..., se:cdpVersion: 133.0.6943.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5ab23f627df6cd7a152196d6c4d86b2f
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.getText(Unknown Source)
+	at dsAlgo_PageFactory.Register_PageFactory.successMessageDisplayed(Register_PageFactory.java:62)
+	at dsAlgo_StepDefinition.Register.user_should_be_able_to_naviagte_to_home_page_and_get_the_success_message(Register.java:153)
+	at ✽.User should be able to naviagte to home page and get the success message(file:///C:/Users/rinuh/git/DsAlgo_CodeCrackers_BDD/src/test/resources/features/Register.feature:76)
+</pre></div><a href='#' onClick='toggleBox("stack-trace2085095410", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2085095410'><pre>org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[contains(text(),&apos;Account Created&apos;)]&quot;}
+  (Session info: chrome=133.0.6943.126)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.28.0&apos;, revision: &apos;ac342546e9&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;23.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5ab23f627df6cd7a152196d6c4d86b2f, findElement {using=xpath, value=//div[contains(text(),&apos;Account Created&apos;)]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.126, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\rinuh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56252}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56252/devtoo..., se:cdpVersion: 133.0.6943.126, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5ab23f627df6cd7a152196d6c4d86b2f
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy44.getText(Unknown Source)
+	at dsAlgo_PageFactory.Register_PageFactory.successMessageDisplayed(Register_PageFactory.java:62)
+	at dsAlgo_StepDefinition.Register.user_should_be_able_to_naviagte_to_home_page_and_get_the_success_message(Register.java:153)
+	at ✽.User should be able to naviagte to home page and get the success message(file:///C:/Users/rinuh/git/DsAlgo_CodeCrackers_BDD/src/test/resources/features/Register.feature:76)
+</pre></div></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify warning message when selecting Arrays without signing in", "Home Page"</td>
+<td><div><pre>java.lang.RuntimeException: Browser not specified in the Configuration.properties file.
+	at dsAlgo_Reader.ConfigReader.getBrowser(ConfigReader.java:46)
+	at dsAlgo_Hooks.Hooks.setup(Hooks.java:30)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1119731958", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1119731958'><pre>java.lang.RuntimeException: Browser not specified in the Configuration.properties file.
+	at dsAlgo_Reader.ConfigReader.getBrowser(ConfigReader.java:46)
+	at dsAlgo_Hooks.Hooks.setup(Hooks.java:30)
+</pre></div></td>
+<td>1</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify warning message when selecting Tree without signing in", "Home Page"</td>
+<td><div><pre>java.lang.RuntimeException: Browser not specified in the Configuration.properties file.
+	at dsAlgo_Reader.ConfigReader.getBrowser(ConfigReader.java:46)
+	at dsAlgo_Hooks.Hooks.setup(Hooks.java:30)
+</pre></div><a href='#' onClick='toggleBox("stack-trace34170082", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace34170082'><pre>java.lang.RuntimeException: Browser not specified in the Configuration.properties file.
+	at dsAlgo_Reader.ConfigReader.getBrowser(ConfigReader.java:46)
+	at dsAlgo_Hooks.Hooks.setup(Hooks.java:30)
+</pre></div></td>
+<td>1</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Traversal link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>13</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Creating Linked List page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>23</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Implement Linked List in Python page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to the home page", "Register Page"</td>
+<td></td>
+<td>10</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Insertion page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Types of Linked List page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Introduction page", "Linked List Functionality"</td>
+<td></td>
+<td>12</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Introduction page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Introduction page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Types of Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that User is able to launch ds-algo portal", "Register Page"</td>
+<td></td>
+<td>9</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter username in the username field", "Register Page"</td>
+<td></td>
+<td>16</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get a pop-up message when username, password and password confirmation field are left blank", "Register Page"</td>
+<td></td>
+<td>8</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Introduction page", "Linked List Functionality"</td>
+<td></td>
+<td>12</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter username in the username field", "Register Page"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Implement Linked List in Python link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>13</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify warning message when selecting Graph without signing in", "Home Page"</td>
+<td></td>
+<td>17</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Introduction page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify user enters username and password fields", "Login Functionality"</td>
+<td></td>
+<td>12</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Insertion page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Insertion page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Types of Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>12</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Traversal page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Traversal page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Deletion page", "Linked List Functionality"</td>
+<td></td>
+<td>21</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter username in the username field", "Register Page"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get an error message when username (with special characters other than @) in the username field in the Register page is entered", "Register Page"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Traversal page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Implement Linked List in Python page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Deletion link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>13</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify user receives error message for Invalid Username and Password during Login", "Login Functionality"</td>
+<td></td>
+<td>11</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Implement Linked List in Python page", "Linked List Functionality"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Insertion link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>13</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get an error message", "Register Page"</td>
+<td></td>
+<td>9</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Creating Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>22</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Deletion page", "Linked List Functionality"</td>
+<td></td>
+<td>14</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Insertion page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify user receives error message when username and password fields are blank during Login", "Login Functionality"</td>
+<td></td>
+<td>11</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get a pop-up message when username, password and password confirmation field are left blank", "Register Page"</td>
+<td></td>
+<td>8</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify warning message when selecting Linked List without signing in", "Home Page"</td>
+<td></td>
+<td>16</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get an error message when username (with special characters other than @) in the username field in the Register page is entered", "Register Page"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter username in the username field", "Register Page"</td>
+<td></td>
+<td>10</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to click on Get Started button under Linked List section", "Linked List Functionality"</td>
+<td></td>
+<td>21</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Deletion page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Introduction link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter password in the field", "Register Page"</td>
+<td></td>
+<td>14</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify user receives error message when username and password fields are blank during Login", "Login Functionality"</td>
+<td></td>
+<td>11</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Insertion page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Traversal page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Types of Linked List link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Introduction page", "Linked List Functionality"</td>
+<td></td>
+<td>12</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Implement Linked List in Python page", "Linked List Functionality"</td>
+<td></td>
+<td>17</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Traversal page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user stays on the same page when clicking elsewhere", "Home Page"</td>
+<td></td>
+<td>16</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Implement Linked List in Python page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify user receives error message for Invalid Username and Password during Login", "Login Functionality"</td>
+<td></td>
+<td>11</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Creating Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>23</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Types of Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Traversal page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Deletion page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>21</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the Creating Linked List link is enabled in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>16</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Types of Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>19</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter password in the field", "Register Page"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get a pop-up message when username, password and password confirmation field are left blank", "Register Page"</td>
+<td></td>
+<td>8</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Creating Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>12</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Insertion page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Creating Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>13</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Creating Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>23</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Types of Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter password in the field", "Register Page"</td>
+<td></td>
+<td>15</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user can view Data Structures dropdown options without signing in", "Home Page"</td>
+<td></td>
+<td>16</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to the home page", "Home Page"</td>
+<td></td>
+<td>17</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to see output for valid, invalid and incorrect syntax Python code is entered for the Deletion page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify whether the user is able to navigate to Practice Questions page after clicking Practice Questions link in the Linked List page", "Linked List Functionality"</td>
+<td></td>
+<td>21</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify warning message when selecting Queue without signing in", "Home Page"</td>
+<td></td>
+<td>16</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Try Here >>> page for Deletion page", "Linked List Functionality"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to enter password in the field", "Register Page"</td>
+<td></td>
+<td>20</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get an error message", "Register Page"</td>
+<td></td>
+<td>10</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to navigate to Implement Linked List in Python page after clicking <- in the Try Editor window", "Linked List Functionality"</td>
+<td></td>
+<td>14</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+<tr>
+<td title='dsAlgo_TestRunner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: dsAlgo_TestRunner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Verify that the user is able to get an error message", "Register Page"</td>
+<td></td>
+<td>14</td>
+<td>dsAlgo_TestRunner.TestRunner@59e505b2</td></tr>
+</table><p>
+</body>
+</html>
