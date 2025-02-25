@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
 		
-		features = "src/test/resources/features",
+		features = {"src/test/resources/features"},
 		glue = {"dsAlgo_StepDefinition", "dsAlgo_Hooks"},
 		monochrome=true,
 		plugin = {"pretty", "html:target/cucumber1.html",

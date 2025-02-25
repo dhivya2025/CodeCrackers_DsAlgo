@@ -1097,3 +1097,1126 @@
 [INFO] 2025-02-24 15:10:04.784 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
 [ERROR] 2025-02-24 15:10:15.140 [TestNG-PoolService-6] LoggerReader - Steps Failed , Taking Screenshot
 [INFO] 2025-02-24 15:10:15.473 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:12:26.137 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:26.148 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:12:31.002 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:32.541 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:12:33.534 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:33.535 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:12:36.176 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:37.795 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:12:38.634 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:38.634 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:12:41.387 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:44.149 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:12:45.236 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:45.236 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:12:48.049 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:50.170 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:12:51.327 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:51.327 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:12:54.079 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:55.666 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:12:56.251 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:12:56.252 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:12:58.882 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:00.537 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:01.107 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:01.107 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:03.524 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:05.207 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:05.779 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:05.784 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:08.825 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:10.432 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:11.045 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:11.045 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:13.703 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:14.746 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:15.782 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:15.783 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:18.373 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:23.047 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:23.630 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:23.630 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:26.310 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:28.493 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:29.609 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:29.609 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:32.235 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:34.238 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:34.984 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:34.985 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:38.021 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:40.780 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:41.391 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:41.392 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:44.217 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:47.112 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:48.192 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:48.192 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:50.921 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:54.207 [main] LoggerReader - Logging ::::::User clicks on the Get Started button under Queue section
+[INFO] 2025-02-24 23:13:54.285 [main] LoggerReader - Logging ::::::User is navigated to Queue page
+[INFO] 2025-02-24 23:13:54.287 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:13:55.357 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:13:55.357 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:13:57.731 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:01.266 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:14:01.377 [main] LoggerReader - Logging ::::::The user checks whether the Implementation of Queue in Python link is enabled
+[INFO] 2025-02-24 23:14:01.444 [main] LoggerReader - Logging ::::::The user should be able to see Implementation of Queue in Python link enabled in the Queue page
+[INFO] 2025-02-24 23:14:01.446 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:01.946 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:01.946 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:04.395 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:07.529 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:14:07.606 [main] LoggerReader - Logging ::::::The user checks whether the Implementation using collections.deque link is enabled
+[INFO] 2025-02-24 23:14:07.649 [main] LoggerReader - Logging ::::::The user should be able to see Implementation using collections.deque link enabled in the Queue page
+[INFO] 2025-02-24 23:14:07.651 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:08.120 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:08.120 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:10.692 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:13.812 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:14:13.897 [main] LoggerReader - Logging ::::::The user checks whether the Implementation using Array link is enabled
+[INFO] 2025-02-24 23:14:13.941 [main] LoggerReader - Logging ::::::The user should be able to see Implementation using Array link enabled in the Queue page
+[INFO] 2025-02-24 23:14:13.944 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:14.437 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:14.437 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:17.032 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:20.145 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:14:20.217 [main] LoggerReader - Logging ::::::The user checks whether the Queue Operations link is enabled
+[INFO] 2025-02-24 23:14:20.254 [main] LoggerReader - Logging ::::::The user should be able to see Queue Operations link enabled in the Queue page
+[INFO] 2025-02-24 23:14:20.262 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:20.634 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:20.634 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:23.301 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:26.351 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:14:26.810 [main] LoggerReader - Logging ::::::The user clicks Implementation of Queue in Python link in the Queue page
+[INFO] 2025-02-24 23:14:26.906 [main] LoggerReader - Logging ::::::The user should be able to navigate to Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:26.908 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:27.292 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:27.292 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:29.843 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:33.045 [main] LoggerReader - Logging ::::::The user is in the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:33.914 [main] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:33.917 [main] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:14:33.926 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:34.317 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:34.317 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:36.740 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:41.169 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:41.938 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:41.941 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:41.942 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:42.339 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:42.339 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:44.995 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:49.114 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:49.846 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:49.849 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:49.850 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:50.355 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:50.355 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:14:52.757 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:57.204 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:57.881 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:57.883 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:14:57.887 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:14:58.331 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:14:58.331 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:01.076 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:04.051 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:15:04.479 [main] LoggerReader - Logging ::::::The user clicks Implementation using collections.deque link in the Queue page
+[INFO] 2025-02-24 23:15:04.561 [main] LoggerReader - Logging ::::::The user should be able to navigate to Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:04.562 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:05.007 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:05.007 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:07.591 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:10.747 [main] LoggerReader - Logging ::::::The user is in the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:11.654 [main] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:11.666 [main] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:15:11.669 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:12.082 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:12.082 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:14.557 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:18.511 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:19.186 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:19.187 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:15:19.189 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:19.627 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:19.627 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:22.081 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:26.346 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:27.037 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:27.050 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:15:27.063 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:27.546 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:27.546 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:29.979 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:34.391 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:35.025 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:15:35.026 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:15:35.028 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:35.537 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:35.537 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:38.095 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:41.015 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:15:41.452 [main] LoggerReader - Logging ::::::The user clicks Implementation using Array link in the Queue page
+[INFO] 2025-02-24 23:15:41.532 [main] LoggerReader - Logging ::::::The user should be able to navigate to Implementation using Array page
+[INFO] 2025-02-24 23:15:41.534 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:41.929 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:41.929 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:44.520 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:47.953 [main] LoggerReader - Logging ::::::The user is in the Implementation using Array page
+[INFO] 2025-02-24 23:15:48.708 [main] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Implementation using Array page
+[INFO] 2025-02-24 23:15:48.724 [main] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:15:48.725 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:49.167 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:49.168 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:51.408 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:55.829 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using Array page
+[INFO] 2025-02-24 23:15:56.438 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using Array page
+[INFO] 2025-02-24 23:15:56.441 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:15:56.443 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:15:56.765 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:15:56.766 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:15:59.214 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:03.286 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using Array page
+[INFO] 2025-02-24 23:16:04.048 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using Array page
+[INFO] 2025-02-24 23:16:04.052 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:16:04.056 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:04.570 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:04.570 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:06.874 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:11.126 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using Array page
+[INFO] 2025-02-24 23:16:11.863 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using Array page
+[INFO] 2025-02-24 23:16:11.865 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:16:11.869 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:12.429 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:12.429 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:15.069 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:17.817 [main] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:16:18.338 [main] LoggerReader - Logging ::::::The user clicks Queue Operations link in the Queue page
+[INFO] 2025-02-24 23:16:18.431 [main] LoggerReader - Logging ::::::The user should be able to navigate to Queue Operations page
+[INFO] 2025-02-24 23:16:18.433 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:18.951 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:18.951 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:21.434 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:25.057 [main] LoggerReader - Logging ::::::The user is in the Queue Operations page
+[INFO] 2025-02-24 23:16:25.926 [main] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Queue Operations page
+[INFO] 2025-02-24 23:16:25.929 [main] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:16:25.945 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:26.549 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:26.549 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:28.996 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:33.365 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Queue Operations page
+[INFO] 2025-02-24 23:16:34.038 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Queue Operations page
+[INFO] 2025-02-24 23:16:34.041 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:16:34.045 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:34.578 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:34.579 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:37.471 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:41.944 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Queue Operations page
+[INFO] 2025-02-24 23:16:42.774 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Queue Operations page
+[INFO] 2025-02-24 23:16:42.776 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:16:42.802 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:43.409 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:43.410 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:46.289 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:50.621 [main] LoggerReader - Logging ::::::The user is in the Try Editor page for the Queue Operations page
+[INFO] 2025-02-24 23:16:51.269 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Queue Operations page
+[INFO] 2025-02-24 23:16:51.301 [main] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:16:51.310 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:51.817 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:51.817 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:16:54.349 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:57.572 [main] LoggerReader - Logging ::::::The user is in the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:16:57.954 [main] LoggerReader - Logging ::::::User clicks Practice questions link in Queue page
+[INFO] 2025-02-24 23:16:57.957 [main] LoggerReader - Logging ::::::User should be redirected to Practice page of Queue
+[INFO] 2025-02-24 23:16:57.961 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:16:58.371 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:16:58.371 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:01.008 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:03.892 [main] LoggerReader - Logging ::::::User clicks on the Get Started button under Stack section
+[INFO] 2025-02-24 23:17:03.896 [main] LoggerReader - Logging ::::::User is navigated to Stack page
+[INFO] 2025-02-24 23:17:03.977 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:04.346 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:04.346 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:06.815 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:09.639 [main] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:17:09.746 [main] LoggerReader - Logging ::::::User Checks the Operations in Stack link is Enabled
+[INFO] 2025-02-24 23:17:09.811 [main] LoggerReader - Logging ::::::User see Operations in Stack link enabled in the Stack page
+[INFO] 2025-02-24 23:17:09.812 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:10.257 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:10.257 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:12.737 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:15.808 [main] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:17:15.927 [main] LoggerReader - Logging ::::::User see Implementation link is enabled
+[INFO] 2025-02-24 23:17:15.971 [main] LoggerReader - Logging ::::::User able to see Implementation link enabled in the Stack page
+[INFO] 2025-02-24 23:17:15.974 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:16.453 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:16.453 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:19.082 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:21.998 [main] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:17:22.097 [main] LoggerReader - Logging ::::::User able to see the Applications link is enabled
+[INFO] 2025-02-24 23:17:22.151 [main] LoggerReader - Logging ::::::User able to see Applications link enabled in the Stack page
+[INFO] 2025-02-24 23:17:22.155 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:22.695 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:22.695 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:25.237 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:28.032 [main] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:17:28.585 [main] LoggerReader - Logging ::::::The user clicks Operations in Stack link in the Stack page
+[INFO] 2025-02-24 23:17:28.637 [main] LoggerReader - Logging ::::::User able to navigate to Operations in Stack page
+[INFO] 2025-02-24 23:17:28.639 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:29.289 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:29.289 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:31.654 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:35.079 [main] LoggerReader - Logging ::::::User able to see all Operations in Stack page
+[INFO] 2025-02-24 23:17:35.927 [main] LoggerReader - Logging ::::::User clicks Try Here >>> button in the Operations in Stack page
+[INFO] 2025-02-24 23:17:35.929 [main] LoggerReader - Logging ::::::User should be able to navigate to Try Editor page with Run button to test
+[INFO] 2025-02-24 23:17:35.931 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:36.426 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:36.426 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:39.054 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:43.386 [main] LoggerReader - Logging ::::::User is in the Try Editor page for the Operations in Stack page
+[INFO] 2025-02-24 23:17:44.073 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Operations in Stack page
+[INFO] 2025-02-24 23:17:44.074 [main] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Operations in Stack page
+[INFO] 2025-02-24 23:17:44.081 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:44.690 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:44.690 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:47.258 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:51.512 [main] LoggerReader - Logging ::::::User is in the Try Editor page for the Operations in Stack page
+[INFO] 2025-02-24 23:17:52.299 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Operations in Stack page
+[INFO] 2025-02-24 23:17:52.312 [main] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Operations in Stack page
+[INFO] 2025-02-24 23:17:52.314 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:17:53.114 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:53.114 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:17:55.451 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:17:59.849 [main] LoggerReader - Logging ::::::User is in the Try Editor page for the Operations in Stack page
+[INFO] 2025-02-24 23:18:00.512 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Operations in Stack page
+[INFO] 2025-02-24 23:18:00.518 [main] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Operations in Stack page
+[INFO] 2025-02-24 23:18:00.519 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:01.229 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:01.229 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:03.921 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:06.853 [main] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:18:07.291 [main] LoggerReader - Logging ::::::user clicks Implementation link in the Stack page
+[INFO] 2025-02-24 23:18:07.372 [main] LoggerReader - Logging ::::::user should be able to navigate to Implementation page
+[INFO] 2025-02-24 23:18:07.373 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:08.195 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:08.195 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:10.979 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:14.621 [main] LoggerReader - Logging ::::::User is in the Implementation page
+[INFO] 2025-02-24 23:18:15.537 [main] LoggerReader - Logging ::::::user clicks Try Here >>> button in the Implementation page
+[INFO] 2025-02-24 23:18:15.539 [main] LoggerReader - Logging ::::::User should be able to navigate to Try Editor page with Run button to test
+[INFO] 2025-02-24 23:18:15.548 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:16.228 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:16.228 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:18.852 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:23.078 [main] LoggerReader - Logging ::::::user is in the Try Editor page for the Implementation page
+[INFO] 2025-02-24 23:18:23.689 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation page
+[INFO] 2025-02-24 23:18:23.690 [main] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Implementation page
+[INFO] 2025-02-24 23:18:23.691 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:24.294 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:24.294 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:26.724 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:31.118 [main] LoggerReader - Logging ::::::user is in the Try Editor page for the Implementation page
+[INFO] 2025-02-24 23:18:31.851 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation page
+[INFO] 2025-02-24 23:18:31.853 [main] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Implementation page
+[INFO] 2025-02-24 23:18:31.856 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:32.435 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:32.436 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:35.237 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:39.337 [main] LoggerReader - Logging ::::::user is in the Try Editor page for the Implementation page
+[INFO] 2025-02-24 23:18:40.058 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation page
+[INFO] 2025-02-24 23:18:40.059 [main] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Implementation page
+[INFO] 2025-02-24 23:18:40.078 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:40.764 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:40.764 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:43.182 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:46.432 [main] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:18:46.880 [main] LoggerReader - Logging ::::::user clicks Applications link in the Stack page
+[INFO] 2025-02-24 23:18:46.999 [main] LoggerReader - Logging ::::::User should be able to navigate to Applications page
+[INFO] 2025-02-24 23:18:47.000 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:47.783 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:47.783 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:50.273 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:54.009 [main] LoggerReader - Logging ::::::User is in the Applications page
+[INFO] 2025-02-24 23:18:54.949 [main] LoggerReader - Logging ::::::User clicks Try Here >>> button in the Applications page
+[INFO] 2025-02-24 23:18:54.952 [main] LoggerReader - Logging ::::::User should be able to navigate to Try Editor page with Run button to test
+[INFO] 2025-02-24 23:18:54.953 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:18:55.811 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:18:55.812 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:18:58.408 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:02.597 [main] LoggerReader - Logging ::::::User is in the Try Editor page for the Applications page
+[INFO] 2025-02-24 23:19:03.206 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Applications page
+[INFO] 2025-02-24 23:19:03.209 [main] LoggerReader - Logging ::::::User should be able to get an output in the Try Editor screen for the Applications page
+[INFO] 2025-02-24 23:19:03.210 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:19:03.682 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:03.682 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:19:06.135 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:10.355 [main] LoggerReader - Logging ::::::User is in the Try Editor page for the Applications page
+[INFO] 2025-02-24 23:19:11.098 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Applications page
+[INFO] 2025-02-24 23:19:11.104 [main] LoggerReader - Logging ::::::User should be able to get an output in the Try Editor screen for the Applications page
+[INFO] 2025-02-24 23:19:11.105 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:19:11.630 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:11.630 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:19:14.195 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:18.084 [main] LoggerReader - Logging ::::::User is in the Try Editor page for the Applications page
+[INFO] 2025-02-24 23:19:18.730 [main] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Applications page
+[INFO] 2025-02-24 23:19:18.735 [main] LoggerReader - Logging ::::::User should be able to get an output in the Try Editor screen for the Applications page
+[INFO] 2025-02-24 23:19:18.749 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:19:19.214 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:19.214 [main] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:19:21.730 [main] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:19:25.018 [main] LoggerReader - Logging ::::::User able to see all Operations in Stack page
+[INFO] 2025-02-24 23:19:25.321 [main] LoggerReader - Logging ::::::User clicks Practice questions link
+[INFO] 2025-02-24 23:19:25.324 [main] LoggerReader - Logging ::::::User should be redirected to Practice page
+[INFO] 2025-02-24 23:19:25.331 [main] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.466 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:40.480 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:20:59.886 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:01.331 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:05.037 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:05.584 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:06.041 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:07.126 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:07.289 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:08.011 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:12.215 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:12.639 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:13.315 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:14.765 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:23.035 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:23.866 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:25.055 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:25.072 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:25.909 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:25.962 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:25.974 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:29.057 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:29.875 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:29.875 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:21:30.038 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:30.038 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:21:34.450 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:34.683 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:38.588 [TestNG-PoolService-9] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:21:38.700 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:39.492 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:39.492 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:21:40.570 [TestNG-PoolService-7] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:21:40.726 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:21:41.220 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:41.220 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:21:41.595 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:41.595 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:21:43.095 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:43.095 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:21:43.975 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:48.982 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:51.521 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:54.433 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:21:59.402 [TestNG-PoolService-4] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:21:59.825 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:00.275 [TestNG-PoolService-5] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:22:00.695 [TestNG-PoolService-6] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:22:00.808 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:01.195 [TestNG-PoolService-2] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:22:01.435 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:01.525 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:02.908 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:02.908 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:03.092 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:03.092 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:03.815 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:03.815 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:07.711 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:07.711 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:07.809 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:09.988 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:11.602 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:18.345 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:20.007 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:20.010 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:22.076 [TestNG-PoolService-1] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:22:22.417 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:22.417 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:22.761 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:23.498 [TestNG-PoolService-10] LoggerReader - Introduction Title is displayed
+[INFO] 2025-02-24 23:22:24.216 [TestNG-PoolService-3] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:22:27.407 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:27.687 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:31.728 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:32.818 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:33.964 [TestNG-PoolService-8] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:22:35.105 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:35.105 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:35.865 [TestNG-PoolService-8] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:22:35.911 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:40.253 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:41.768 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:41.768 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:42.116 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:42.116 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:43.588 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:43.588 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:43.600 [TestNG-PoolService-7] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:22:44.488 [TestNG-PoolService-9] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:22:50.388 [TestNG-PoolService-7] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:22:50.389 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:50.842 [TestNG-PoolService-9] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:22:50.852 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:22:51.269 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:53.249 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:55.249 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:22:55.249 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:22:56.095 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:00.337 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:00.353 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:23:02.451 [TestNG-PoolService-2] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:03.110 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:03.811 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:03.813 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:23:06.934 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:11.599 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:13.946 [TestNG-PoolService-4] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:23:19.098 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:19.107 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:23:20.686 [TestNG-PoolService-5] LoggerReader - Creating Linked List Title is displayed
+[INFO] 2025-02-24 23:23:22.041 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:22.853 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:25.522 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:27.858 [TestNG-PoolService-6] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:30.404 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:31.745 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:31.746 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:23:32.320 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:32.320 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:23:32.708 [TestNG-PoolService-1] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:33.039 [TestNG-PoolService-6] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:23:33.087 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:38.752 [TestNG-PoolService-1] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:23:38.758 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:39.880 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:40.704 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:41.610 [TestNG-PoolService-10] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:44.540 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:44.541 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:23:45.494 [TestNG-PoolService-10] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:23:45.495 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:46.618 [TestNG-PoolService-8] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:23:46.880 [TestNG-PoolService-3] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:47.298 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:49.316 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:51.458 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:23:53.826 [TestNG-PoolService-7] LoggerReader - Types of Linked List Title is displayed
+[INFO] 2025-02-24 23:23:55.723 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:56.378 [TestNG-PoolService-9] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:57.298 [TestNG-PoolService-9] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:23:57.303 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:23:59.070 [TestNG-PoolService-2] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:23:59.569 [TestNG-PoolService-2] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:23:59.573 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:24:00.839 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:00.839 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:02.124 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:02.124 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:07.629 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:07.637 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:14.564 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:14.576 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:16.647 [TestNG-PoolService-4] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:24:17.325 [TestNG-PoolService-5] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:24:18.116 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:24:18.184 [TestNG-PoolService-4] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:24:18.190 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:24:18.748 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:21.498 [TestNG-PoolService-6] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:24:22.061 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:24:23.233 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:23.234 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:23.249 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:23.249 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:23.249 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:23.250 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:23.263 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:23.263 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:32.446 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:32.781 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:33.139 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:36.991 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:36.991 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:37.267 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:38.680 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:38.680 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:41.385 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:41.404 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:24:47.991 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:50.113 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:24:52.535 [TestNG-PoolService-3] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:24:55.788 [TestNG-PoolService-8] LoggerReader - Implement Linked List Title is displayed
+[INFO] 2025-02-24 23:24:56.716 [TestNG-PoolService-3] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:24:56.719 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:24:58.635 [TestNG-PoolService-10] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:00.358 [TestNG-PoolService-1] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:00.420 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:00.420 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:00.961 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:00.964 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:01.739 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:02.101 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:03.963 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:03.969 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:05.333 [TestNG-PoolService-10] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:25:05.347 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:08.111 [TestNG-PoolService-1] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:25:08.111 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:11.434 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:12.272 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:17.573 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:19.407 [TestNG-PoolService-2] LoggerReader - Traversal Title is displayed
+[INFO] 2025-02-24 23:25:21.454 [TestNG-PoolService-9] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:25:22.296 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:23.228 [TestNG-PoolService-7] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:23.557 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:24.113 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:28.670 [TestNG-PoolService-6] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:29.537 [TestNG-PoolService-6] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:25:29.538 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:29.539 [TestNG-PoolService-4] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:29.972 [TestNG-PoolService-5] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:30.394 [TestNG-PoolService-4] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:25:30.399 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:30.700 [TestNG-PoolService-5] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:25:30.702 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:31.717 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:31.717 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:33.601 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:33.602 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:34.975 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:36.592 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:36.592 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:39.707 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:39.708 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:41.212 [TestNG-PoolService-3] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:41.448 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:42.773 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:47.285 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:49.503 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:53.294 [TestNG-PoolService-8] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:25:54.393 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:54.740 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:25:54.744 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:25:55.925 [TestNG-PoolService-10] LoggerReader - Insertion Title is displayed
+[INFO] 2025-02-24 23:25:57.163 [TestNG-PoolService-1] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:25:57.541 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:25:59.464 [TestNG-PoolService-1] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:25:59.465 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:26:00.370 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:03.421 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:03.421 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:05.058 [TestNG-PoolService-7] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:26:05.363 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:05.363 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:05.533 [TestNG-PoolService-7] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:26:05.534 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:26:08.208 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:10.931 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:10.933 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:11.693 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:11.693 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:12.408 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:12.542 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:12.542 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:17.296 [TestNG-PoolService-2] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:26:22.315 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:22.921 [TestNG-PoolService-2] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:26:22.937 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:26:23.287 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:23.442 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:25.358 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:25.385 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:33.542 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:36.334 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:36.338 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:36.486 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:36.486 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:40.051 [TestNG-PoolService-6] LoggerReader - Linked List Title is displayed
+[INFO] 2025-02-24 23:26:40.974 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:40.974 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:46.079 [TestNG-PoolService-9] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:26:47.858 [TestNG-PoolService-3] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:26:48.863 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:49.310 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:49.310 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:49.881 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:26:50.181 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:50.700 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:26:54.273 [TestNG-PoolService-3] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:26:54.282 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:26:54.407 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:26:54.407 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:26:56.704 [TestNG-PoolService-4] LoggerReader - Deletion Title is displayed
+[INFO] 2025-02-24 23:26:57.150 [TestNG-PoolService-5] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:27:03.065 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:03.830 [TestNG-PoolService-5] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:27:03.838 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:05.735 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:09.580 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:11.606 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:15.652 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:18.847 [TestNG-PoolService-10] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:27:18.863 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:20.722 [TestNG-PoolService-8] LoggerReader - Run button is displayed
+[INFO] 2025-02-24 23:27:20.725 [TestNG-PoolService-10] LoggerReader - User is in Try Editor window
+[INFO] 2025-02-24 23:27:20.725 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:21.067 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:21.398 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:21.399 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:22.166 [TestNG-PoolService-1] LoggerReader - Deletion Title is displayed
+[INFO] 2025-02-24 23:27:22.268 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:22.268 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:22.813 [TestNG-PoolService-1] LoggerReader - User is in Practice Questions Page
+[INFO] 2025-02-24 23:27:22.814 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:27.087 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:29.606 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:34.236 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:34.481 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:35.491 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:35.491 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:36.952 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:36.953 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:39.213 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:44.002 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:44.705 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:45.223 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:45.223 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:49.895 [TestNG-PoolService-4] LoggerReader - Logging ::::::User clicks on the Get Started button under Queue section
+[INFO] 2025-02-24 23:27:50.089 [TestNG-PoolService-4] LoggerReader - Logging ::::::User is navigated to Queue page
+[INFO] 2025-02-24 23:27:50.091 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:50.178 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:53.832 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:27:53.932 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user checks whether the Implementation of Queue in Python link is enabled
+[INFO] 2025-02-24 23:27:53.997 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user should be able to see Implementation of Queue in Python link enabled in the Queue page
+[INFO] 2025-02-24 23:27:53.998 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:27:54.861 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:54.861 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:54.932 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:54.932 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:54.965 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:54.965 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:27:56.018 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:27:56.018 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:02.940 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:03.003 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:03.627 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:05.023 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:05.023 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:12.599 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:28:13.080 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:13.125 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user checks whether the Implementation using Array link is enabled
+[INFO] 2025-02-24 23:28:16.487 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:16.487 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:16.528 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:16.528 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:16.555 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user should be able to see Implementation using Array link enabled in the Queue page
+[INFO] 2025-02-24 23:28:16.556 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:28:17.069 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:28:17.073 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:28:17.150 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user checks whether the Implementation using collections.deque link is enabled
+[INFO] 2025-02-24 23:28:17.163 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user checks whether the Queue Operations link is enabled
+[INFO] 2025-02-24 23:28:17.195 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user should be able to see Implementation using collections.deque link enabled in the Queue page
+[INFO] 2025-02-24 23:28:17.196 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:28:17.199 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user should be able to see Queue Operations link enabled in the Queue page
+[INFO] 2025-02-24 23:28:17.200 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:28:19.740 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:28:20.389 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user clicks Implementation of Queue in Python link in the Queue page
+[INFO] 2025-02-24 23:28:20.684 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user should be able to navigate to Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:20.687 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:28:22.194 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:26.294 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:26.296 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:29.147 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:29.379 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:31.435 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:31.446 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:33.603 [TestNG-PoolService-1] LoggerReader - Logging ::::::The user is in the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:35.566 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:35.566 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:36.636 [TestNG-PoolService-1] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:36.638 [TestNG-PoolService-1] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:28:36.643 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:28:37.786 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:44.643 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:50.069 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:53.920 [TestNG-PoolService-3] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:56.654 [TestNG-PoolService-6] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:57.597 [TestNG-PoolService-3] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:57.642 [TestNG-PoolService-3] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:57.644 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:28:58.131 [TestNG-PoolService-9] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:28:58.164 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:58.170 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:58.659 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:58.659 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:28:58.664 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:28:58.664 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:01.751 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user is in the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:02.664 [TestNG-PoolService-4] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:29:05.722 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:05.722 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:05.808 [TestNG-PoolService-6] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:05.851 [TestNG-PoolService-6] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:05.853 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:06.039 [TestNG-PoolService-9] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:06.049 [TestNG-PoolService-9] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:06.069 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:06.203 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:06.204 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:29:06.205 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:06.838 [TestNG-PoolService-4] LoggerReader - Logging ::::::The user clicks Implementation using collections.deque link in the Queue page
+[INFO] 2025-02-24 23:29:06.939 [TestNG-PoolService-4] LoggerReader - Logging ::::::The user should be able to navigate to Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:06.940 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:09.654 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:09.654 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:13.923 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:16.150 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:18.700 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:23.188 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:24.958 [TestNG-PoolService-10] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:24.967 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:24.970 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:26.686 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:26.925 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:27.510 [TestNG-PoolService-8] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:27.511 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:27.518 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:27.907 [TestNG-PoolService-7] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using collections.deque page
+[INFO] 2025-02-24 23:29:27.908 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:29:27.909 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:32.928 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:32.961 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:37.434 [TestNG-PoolService-1] LoggerReader - Logging ::::::The user is in the Implementation using Array page
+[INFO] 2025-02-24 23:29:37.518 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:29:38.200 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user clicks Implementation using Array link in the Queue page
+[INFO] 2025-02-24 23:29:38.325 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user should be able to navigate to Implementation using Array page
+[INFO] 2025-02-24 23:29:38.326 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:38.987 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:38.987 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:39.313 [TestNG-PoolService-1] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Implementation using Array page
+[INFO] 2025-02-24 23:29:39.314 [TestNG-PoolService-1] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:29:39.315 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:29:40.868 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:40.868 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:40.979 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:40.979 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:41.003 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:41.003 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:41.064 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:41.067 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:29:44.169 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:56.191 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:58.757 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:29:59.758 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:01.807 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:06.298 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:06.298 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:12.414 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:12.414 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:12.494 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:12.494 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:12.766 [TestNG-PoolService-3] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using Array page
+[INFO] 2025-02-24 23:30:14.689 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user is in the Queue page after Sign-In
+[INFO] 2025-02-24 23:30:15.569 [TestNG-PoolService-3] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using Array page
+[INFO] 2025-02-24 23:30:15.572 [TestNG-PoolService-3] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:15.605 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:16.695 [TestNG-PoolService-9] LoggerReader - Logging ::::::The user is in the Queue Operations page
+[INFO] 2025-02-24 23:30:17.053 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user clicks Queue Operations link in the Queue page
+[INFO] 2025-02-24 23:30:17.304 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user should be able to navigate to Queue Operations page
+[INFO] 2025-02-24 23:30:17.305 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:18.539 [TestNG-PoolService-6] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using Array page
+[INFO] 2025-02-24 23:30:21.442 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:21.442 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:21.561 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:21.561 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:21.742 [TestNG-PoolService-9] LoggerReader - Logging ::::::The user clicks Try Here >>> button in the Queue Operations page
+[INFO] 2025-02-24 23:30:21.743 [TestNG-PoolService-9] LoggerReader - Logging ::::::The user should be able to navigate to Try Editor page with Run button
+[INFO] 2025-02-24 23:30:21.744 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:25.179 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:25.564 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:28.113 [TestNG-PoolService-4] LoggerReader - Logging ::::::The user is in the Try Editor page for the Implementation using Array page
+[INFO] 2025-02-24 23:30:29.483 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:34.157 [TestNG-PoolService-6] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using Array page
+[INFO] 2025-02-24 23:30:34.158 [TestNG-PoolService-6] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:34.159 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:34.824 [TestNG-PoolService-4] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation using Array page
+[INFO] 2025-02-24 23:30:34.825 [TestNG-PoolService-4] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:34.826 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:43.170 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:43.995 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:46.531 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user is in the Try Editor page for the Queue Operations page
+[INFO] 2025-02-24 23:30:50.323 [TestNG-PoolService-10] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Queue Operations page
+[INFO] 2025-02-24 23:30:50.324 [TestNG-PoolService-10] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:50.441 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:50.907 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user is in the Try Editor page for the Queue Operations page
+[INFO] 2025-02-24 23:30:51.173 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:51.375 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user is in the Try Editor page for the Queue Operations page
+[INFO] 2025-02-24 23:30:52.908 [TestNG-PoolService-7] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Queue Operations page
+[INFO] 2025-02-24 23:30:52.909 [TestNG-PoolService-7] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:52.924 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:53.324 [TestNG-PoolService-8] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Queue Operations page
+[INFO] 2025-02-24 23:30:53.327 [TestNG-PoolService-8] LoggerReader - Logging ::::::The user should be able to get an output in the Try Editor screen for the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:53.329 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:54.881 [TestNG-PoolService-2] LoggerReader - Logging ::::::The user is in the Implementation of Queue in Python page
+[INFO] 2025-02-24 23:30:55.342 [TestNG-PoolService-2] LoggerReader - Logging ::::::User clicks Practice questions link in Queue page
+[INFO] 2025-02-24 23:30:55.346 [TestNG-PoolService-2] LoggerReader - Logging ::::::User should be redirected to Practice page of Queue
+[INFO] 2025-02-24 23:30:55.347 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:30:55.668 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:55.669 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:55.693 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:55.693 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:30:55.744 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:30:55.744 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:03.147 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:04.620 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:05.336 [TestNG-PoolService-5] LoggerReader - Register link is displayed
+[INFO] 2025-02-24 23:31:06.892 [TestNG-PoolService-9] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:08.088 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:08.269 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:09.076 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:09.824 [TestNG-PoolService-3] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:10.780 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:15.364 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:15.364 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:15.382 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:15.382 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:15.395 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:15.395 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:22.855 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:24.492 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:24.706 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:25.511 [TestNG-PoolService-8] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:25.606 [TestNG-PoolService-6] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:26.404 [TestNG-PoolService-4] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:27.972 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:29.331 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:29.992 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:31.373 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:31.373 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:31.744 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:31.745 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:32.665 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:32.665 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:35.434 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:36.748 [TestNG-PoolService-7] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:36.783 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:36.783 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:38.973 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:41.026 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:42.505 [TestNG-PoolService-10] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:43.238 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:46.563 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:47.413 [TestNG-PoolService-1] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:48.126 [TestNG-PoolService-2] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:49.818 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:50.299 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:50.300 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:50.664 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:51.400 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:51.954 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:51.955 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:31:55.356 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:56.276 [TestNG-PoolService-9] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:31:58.424 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:58.802 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:31:59.879 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:31:59.889 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:00.060 [TestNG-PoolService-3] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:32:02.344 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:02.344 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:04.499 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:04.700 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:05.545 [TestNG-PoolService-5] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:32:09.036 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:09.253 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:09.533 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:09.533 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:10.512 [TestNG-PoolService-6] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:32:11.323 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:11.323 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:12.859 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:12.859 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:14.791 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:15.718 [TestNG-PoolService-4] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:32:20.030 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:22.412 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:22.412 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:23.402 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:23.416 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:24.954 [TestNG-PoolService-8] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:32:26.455 [TestNG-PoolService-7] LoggerReader - Register Button is displayed
+[INFO] 2025-02-24 23:32:27.106 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:29.020 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:29.020 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:30.174 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:30.517 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:30.517 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:31.223 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:31.225 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:31.604 [TestNG-PoolService-10] LoggerReader - Register button is displayed
+[INFO] 2025-02-24 23:32:42.346 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:44.588 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:46.926 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:47.270 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:47.573 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:47.573 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[ERROR] 2025-02-24 23:32:49.251 [TestNG-PoolService-10] LoggerReader - Steps Failed , Taking Screenshot
+[INFO] 2025-02-24 23:32:50.590 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:50.590 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:32:50.844 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:52.741 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:32:55.593 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:32:55.593 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:00.985 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:02.704 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:08.374 [TestNG-PoolService-1] LoggerReader - Logging ::::::User clicks on the Get Started button under Stack section
+[INFO] 2025-02-24 23:33:08.411 [TestNG-PoolService-1] LoggerReader - Logging ::::::User is navigated to Stack page
+[INFO] 2025-02-24 23:33:08.531 [TestNG-PoolService-2] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:33:08.593 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:08.593 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:09.763 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:09.929 [TestNG-PoolService-2] LoggerReader - Logging ::::::User see Implementation link is enabled
+[INFO] 2025-02-24 23:33:10.326 [TestNG-PoolService-9] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:33:11.641 [TestNG-PoolService-9] LoggerReader - Logging ::::::User Checks the Operations in Stack link is Enabled
+[INFO] 2025-02-24 23:33:12.041 [TestNG-PoolService-2] LoggerReader - Logging ::::::User able to see Implementation link enabled in the Stack page
+[INFO] 2025-02-24 23:33:12.044 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:12.401 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:12.781 [TestNG-PoolService-9] LoggerReader - Logging ::::::User see Operations in Stack link enabled in the Stack page
+[INFO] 2025-02-24 23:33:12.782 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:14.881 [TestNG-PoolService-5] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:33:16.188 [TestNG-PoolService-5] LoggerReader - Logging ::::::The user clicks Operations in Stack link in the Stack page
+[INFO] 2025-02-24 23:33:16.300 [TestNG-PoolService-5] LoggerReader - Logging ::::::User able to navigate to Operations in Stack page
+[INFO] 2025-02-24 23:33:16.304 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:17.734 [TestNG-PoolService-3] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:33:18.375 [TestNG-PoolService-3] LoggerReader - Logging ::::::User able to see the Applications link is enabled
+[INFO] 2025-02-24 23:33:18.597 [TestNG-PoolService-3] LoggerReader - Logging ::::::User able to see Applications link enabled in the Stack page
+[INFO] 2025-02-24 23:33:18.601 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:19.783 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:25.245 [TestNG-PoolService-4] LoggerReader - Logging ::::::User able to see all Operations in Stack page
+[INFO] 2025-02-24 23:33:26.413 [TestNG-PoolService-4] LoggerReader - Logging ::::::User clicks Try Here >>> button in the Operations in Stack page
+[INFO] 2025-02-24 23:33:26.428 [TestNG-PoolService-4] LoggerReader - Logging ::::::User should be able to navigate to Try Editor page with Run button to test
+[INFO] 2025-02-24 23:33:26.429 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:27.813 [TestNG-PoolService-6] LoggerReader - Logging ::::::User is in the Try Editor page for the Operations in Stack page
+[INFO] 2025-02-24 23:33:28.183 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:28.183 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:28.651 [TestNG-PoolService-6] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Operations in Stack page
+[INFO] 2025-02-24 23:33:28.659 [TestNG-PoolService-6] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Operations in Stack page
+[INFO] 2025-02-24 23:33:28.665 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:30.549 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:30.549 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:30.569 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:30.569 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:37.740 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:38.841 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:39.984 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:46.781 [TestNG-PoolService-10] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:33:47.277 [TestNG-PoolService-7] LoggerReader - Logging ::::::User is in the Try Editor page for the Operations in Stack page
+[INFO] 2025-02-24 23:33:47.828 [TestNG-PoolService-10] LoggerReader - Logging ::::::user clicks Implementation link in the Stack page
+[INFO] 2025-02-24 23:33:48.169 [TestNG-PoolService-10] LoggerReader - Logging ::::::user should be able to navigate to Implementation page
+[INFO] 2025-02-24 23:33:48.170 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:48.902 [TestNG-PoolService-7] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Operations in Stack page
+[INFO] 2025-02-24 23:33:48.905 [TestNG-PoolService-7] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Operations in Stack page
+[INFO] 2025-02-24 23:33:48.914 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:49.551 [TestNG-PoolService-8] LoggerReader - Logging ::::::User is in the Try Editor page for the Operations in Stack page
+[INFO] 2025-02-24 23:33:50.485 [TestNG-PoolService-8] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Operations in Stack page
+[INFO] 2025-02-24 23:33:50.485 [TestNG-PoolService-8] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Operations in Stack page
+[INFO] 2025-02-24 23:33:50.487 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:33:51.012 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:51.012 [TestNG-PoolService-2] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:51.090 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:51.090 [TestNG-PoolService-5] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:51.101 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:51.101 [TestNG-PoolService-9] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:33:51.138 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:33:51.138 [TestNG-PoolService-1] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:00.715 [TestNG-PoolService-1] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:00.949 [TestNG-PoolService-5] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:00.983 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:00.983 [TestNG-PoolService-3] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:02.168 [TestNG-PoolService-9] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:03.232 [TestNG-PoolService-2] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:03.347 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:03.347 [TestNG-PoolService-4] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:10.324 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:10.331 [TestNG-PoolService-6] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:13.278 [TestNG-PoolService-3] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:13.794 [TestNG-PoolService-4] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:15.994 [TestNG-PoolService-5] LoggerReader - Logging ::::::user is in the Try Editor page for the Implementation page
+[INFO] 2025-02-24 23:34:21.313 [TestNG-PoolService-2] LoggerReader - Logging ::::::User is in the Implementation page
+[INFO] 2025-02-24 23:34:22.464 [TestNG-PoolService-6] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:23.268 [TestNG-PoolService-5] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation page
+[INFO] 2025-02-24 23:34:23.269 [TestNG-PoolService-5] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Implementation page
+[INFO] 2025-02-24 23:34:23.270 [TestNG-PoolService-5] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:26.757 [TestNG-PoolService-2] LoggerReader - Logging ::::::user clicks Try Here >>> button in the Implementation page
+[INFO] 2025-02-24 23:34:26.759 [TestNG-PoolService-2] LoggerReader - Logging ::::::User should be able to navigate to Try Editor page with Run button to test
+[INFO] 2025-02-24 23:34:26.760 [TestNG-PoolService-2] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:28.554 [TestNG-PoolService-1] LoggerReader - Logging ::::::user is in the Try Editor page for the Implementation page
+[INFO] 2025-02-24 23:34:28.875 [TestNG-PoolService-9] LoggerReader - Logging ::::::user is in the Try Editor page for the Implementation page
+[INFO] 2025-02-24 23:34:29.428 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:29.428 [TestNG-PoolService-10] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:30.373 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:30.373 [TestNG-PoolService-7] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:31.663 [TestNG-PoolService-3] LoggerReader - Logging ::::::User is in the Stack page after Sign-In
+[INFO] 2025-02-24 23:34:31.781 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:31.781 [TestNG-PoolService-8] LoggerReader - Testing on chrome
+[INFO] 2025-02-24 23:34:32.924 [TestNG-PoolService-1] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation page
+[INFO] 2025-02-24 23:34:32.941 [TestNG-PoolService-1] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Implementation page
+[INFO] 2025-02-24 23:34:32.960 [TestNG-PoolService-1] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:33.528 [TestNG-PoolService-6] LoggerReader - Logging ::::::User is in the Try Editor page for the Applications page
+[INFO] 2025-02-24 23:34:34.093 [TestNG-PoolService-9] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Implementation page
+[INFO] 2025-02-24 23:34:34.094 [TestNG-PoolService-9] LoggerReader - Logging ::::::user should be able to get an output in the Try Editor screen for the Implementation page
+[INFO] 2025-02-24 23:34:34.129 [TestNG-PoolService-9] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:35.079 [TestNG-PoolService-3] LoggerReader - Logging ::::::user clicks Applications link in the Stack page
+[INFO] 2025-02-24 23:34:35.762 [TestNG-PoolService-4] LoggerReader - Logging ::::::User is in the Applications page
+[INFO] 2025-02-24 23:34:36.167 [TestNG-PoolService-3] LoggerReader - Logging ::::::User should be able to navigate to Applications page
+[INFO] 2025-02-24 23:34:36.168 [TestNG-PoolService-3] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:38.334 [TestNG-PoolService-10] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:41.586 [TestNG-PoolService-6] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Applications page
+[INFO] 2025-02-24 23:34:41.655 [TestNG-PoolService-6] LoggerReader - Logging ::::::User should be able to get an output in the Try Editor screen for the Applications page
+[INFO] 2025-02-24 23:34:41.782 [TestNG-PoolService-6] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:45.743 [TestNG-PoolService-4] LoggerReader - Logging ::::::User clicks Try Here >>> button in the Applications page
+[INFO] 2025-02-24 23:34:45.744 [TestNG-PoolService-4] LoggerReader - Logging ::::::User should be able to navigate to Try Editor page with Run button to test
+[INFO] 2025-02-24 23:34:45.745 [TestNG-PoolService-4] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:45.924 [TestNG-PoolService-7] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:46.355 [TestNG-PoolService-8] LoggerReader - Initializing driver for: chrome
+[INFO] 2025-02-24 23:34:53.520 [TestNG-PoolService-8] LoggerReader - Logging ::::::User able to see all Operations in Stack page
+[INFO] 2025-02-24 23:34:54.585 [TestNG-PoolService-8] LoggerReader - Logging ::::::User clicks Practice questions link
+[INFO] 2025-02-24 23:34:54.587 [TestNG-PoolService-8] LoggerReader - Logging ::::::User should be redirected to Practice page
+[INFO] 2025-02-24 23:34:54.638 [TestNG-PoolService-8] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:54.667 [TestNG-PoolService-10] LoggerReader - Logging ::::::User is in the Try Editor page for the Applications page
+[INFO] 2025-02-24 23:34:56.394 [TestNG-PoolService-10] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Applications page
+[INFO] 2025-02-24 23:34:56.398 [TestNG-PoolService-10] LoggerReader - Logging ::::::User should be able to get an output in the Try Editor screen for the Applications page
+[INFO] 2025-02-24 23:34:56.399 [TestNG-PoolService-10] LoggerReader - Closing browser after all tests
+[INFO] 2025-02-24 23:34:56.834 [TestNG-PoolService-7] LoggerReader - Logging ::::::User is in the Try Editor page for the Applications page
+[INFO] 2025-02-24 23:34:57.600 [TestNG-PoolService-7] LoggerReader - Logging ::::::User enters valid, invalid and incorrect syntax code from excel sheet {string} and {int} and clicks on Run button for the Applications page
+[INFO] 2025-02-24 23:34:57.604 [TestNG-PoolService-7] LoggerReader - Logging ::::::User should be able to get an output in the Try Editor screen for the Applications page
+[INFO] 2025-02-24 23:34:57.621 [TestNG-PoolService-7] LoggerReader - Closing browser after all tests

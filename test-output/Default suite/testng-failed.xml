@@ -7,7 +7,7 @@
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="2 83 4 6"/>
+          <include name="runScenario" invocation-numbers="109"/>
         </methods>
       </class> <!-- dsAlgo_TestRunner.TestRunner -->
     </classes>
